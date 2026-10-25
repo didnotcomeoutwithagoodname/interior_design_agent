@@ -1,0 +1,6 @@
+# 统一换行符，避免 Windows/Linux 混用产生 diff 噪声
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.glb binary

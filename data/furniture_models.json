@@ -1,0 +1,82 @@
+[
+  {
+    "category": "沙发",
+    "asset_id": "Sofa_01",
+    "asset_name": "Sofa 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/Sofa_01",
+    "local_gltf": "data\\models\\Sofa_01\\Sofa_01.gltf"
+  },
+  {
+    "category": "床",
+    "asset_id": "GothicBed_01",
+    "asset_name": "Gothic Bed 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/GothicBed_01",
+    "local_gltf": "data\\models\\GothicBed_01\\GothicBed_01.gltf"
+  },
+  {
+    "category": "床头柜",
+    "asset_id": "ClassicNightstand_01",
+    "asset_name": "Classic Nightstand 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/ClassicNightstand_01",
+    "local_gltf": "data\\models\\ClassicNightstand_01\\ClassicNightstand_01.gltf"
+  },
+  {
+    "category": "单椅",
+    "asset_id": "ArmChair_01",
+    "asset_name": "Arm Chair 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/ArmChair_01",
+    "local_gltf": "data\\models\\ArmChair_01\\ArmChair_01.gltf"
+  },
+  {
+    "category": "书桌",
+    "asset_id": "SchoolDesk_01",
+    "asset_name": "School Desk 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/SchoolDesk_01",
+    "local_gltf": "data\\models\\SchoolDesk_01\\SchoolDesk_01.gltf"
+  },
+  {
+    "category": "衣柜",
+    "asset_id": "GothicCabinet_01",
+    "asset_name": "Gothic Cabinet 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/GothicCabinet_01",
+    "local_gltf": "data\\models\\GothicCabinet_01\\GothicCabinet_01.gltf"
+  },
+  {
+    "category": "书架",
+    "asset_id": "Shelf_01",
+    "asset_name": "Shelf 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/Shelf_01",
+    "local_gltf": "data\\models\\Shelf_01\\Shelf_01.gltf"
+  },
+  {
+    "category": "餐桌",
+    "asset_id": "ClassicConsole_01",
+    "asset_name": "Classic Console 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/ClassicConsole_01",
+    "local_gltf": "data\\models\\ClassicConsole_01\\ClassicConsole_01.gltf"
+  },
+  {
+    "category": "茶几",
+    "asset_id": "CoffeeTable_01",
+    "asset_name": "Coffee Table 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/CoffeeTable_01",
+    "local_gltf": "data\\models\\CoffeeTable_01\\CoffeeTable_01.gltf"
+  },
+  {
+    "category": "电视柜",
+    "asset_id": "Television_01",
+    "asset_name": "Television 01",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/Television_01",
+    "local_gltf": "data\\models\\Television_01\\Television_01.gltf"
+  }
+]

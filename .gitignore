@@ -1,0 +1,24 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# ---- 密钥 / 环境变量（绝不提交）----
+.env
+
+# ---- RAG 向量库（可再生，按目录内容哈希自动重建）----
+data/chroma/
+
+# ---- 3D 模型（体积大 ~106MB，用 fetch_sketchfab_models.py / fetch_3d_models.py 重新下载）----
+data/models/
+
+# ---- 生成产物（可再生：python main.py）----
+output/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

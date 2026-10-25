@@ -1,0 +1,302 @@
+[
+  {
+    "catalog_id": "S001",
+    "name": "云朵布艺三人沙发",
+    "category": "沙发",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/ff69c42b0ec24dfcb1ff05a4f0d1f3a8.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "S002",
+    "name": "皮艺L型沙发",
+    "category": "沙发",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/ff69c42b0ec24dfcb1ff05a4f0d1f3a8.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "S003",
+    "name": "实木框架布艺沙发",
+    "category": "沙发",
+    "style": "中式",
+    "model_3d": "data/models/sketchfab/ff69c42b0ec24dfcb1ff05a4f0d1f3a8.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "T001",
+    "name": "原木圆几",
+    "category": "茶几",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/5f1dbecdc7f14ab4886a594a074b3c83.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "T002",
+    "name": "玻璃金属茶几",
+    "category": "茶几",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/5f1dbecdc7f14ab4886a594a074b3c83.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "T003",
+    "name": "黑胡桃木茶几",
+    "category": "茶几",
+    "style": "中式",
+    "model_3d": "data/models/sketchfab/5f1dbecdc7f14ab4886a594a074b3c83.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "TV001",
+    "name": "悬浮式电视柜",
+    "category": "电视柜",
+    "style": "极简",
+    "model_3d": "data/models/sketchfab/0074168f4dd64836823667ea871d13ba.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "TV002",
+    "name": "原木电视柜",
+    "category": "电视柜",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/0074168f4dd64836823667ea871d13ba.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "A001",
+    "name": "伊姆斯风休闲单椅",
+    "category": "单椅",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/2346030885474d15adcd32923d308fe4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "A002",
+    "name": "藤编休闲单椅",
+    "category": "单椅",
+    "style": "日式",
+    "model_3d": "data/models/sketchfab/2346030885474d15adcd32923d308fe4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "B001",
+    "name": "实木双人床",
+    "category": "床",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/b8c16d4b69f64335b46379b119b102b4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "B002",
+    "name": "布艺软包床",
+    "category": "床",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/b8c16d4b69f64335b46379b119b102b4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "B003",
+    "name": "红木雕花床",
+    "category": "床",
+    "style": "中式",
+    "model_3d": "data/models/sketchfab/b8c16d4b69f64335b46379b119b102b4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "B004",
+    "name": "铁艺复古床",
+    "category": "床",
+    "style": "工业风",
+    "model_3d": "data/models/sketchfab/b8c16d4b69f64335b46379b119b102b4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "N001",
+    "name": "原木床头柜",
+    "category": "床头柜",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/093226acaca3434191f00c29e5877a07.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "N002",
+    "name": "金属玻璃床头柜",
+    "category": "床头柜",
+    "style": "工业风",
+    "model_3d": "data/models/sketchfab/093226acaca3434191f00c29e5877a07.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "W001",
+    "name": "三门推拉衣柜",
+    "category": "衣柜",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/aff452c30e724283ae2c4f17297e0ef7.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "W002",
+    "name": "原木百叶衣柜",
+    "category": "衣柜",
+    "style": "日式",
+    "model_3d": "data/models/sketchfab/aff452c30e724283ae2c4f17297e0ef7.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "D001",
+    "name": "实木长餐桌",
+    "category": "餐桌",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/9135349108174c8285433b3695977158.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "D002",
+    "name": "岩板餐桌",
+    "category": "餐桌",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/9135349108174c8285433b3695977158.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "D003",
+    "name": "圆餐桌",
+    "category": "餐桌",
+    "style": "中式",
+    "model_3d": "data/models/sketchfab/9135349108174c8285433b3695977158.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "C001",
+    "name": "曲木餐椅",
+    "category": "餐椅",
+    "style": "北欧",
+    "model_3d": "data/models/sketchfab/2485777061ac484b834c43bbf6794a6b.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "C002",
+    "name": "金属皮质餐椅",
+    "category": "餐椅",
+    "style": "工业风",
+    "model_3d": "data/models/sketchfab/2485777061ac484b834c43bbf6794a6b.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "K001",
+    "name": "原木书桌",
+    "category": "书桌",
+    "style": "日式",
+    "model_3d": "data/models/sketchfab/60d7c68aff3644c7bd2acf6983cb39c4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "K002",
+    "name": "简约书桌",
+    "category": "书桌",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/60d7c68aff3644c7bd2acf6983cb39c4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "K003",
+    "name": "实木大书桌",
+    "category": "书桌",
+    "style": "中式",
+    "model_3d": "data/models/sketchfab/60d7c68aff3644c7bd2acf6983cb39c4.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "O001",
+    "name": "人体工学办公椅",
+    "category": "办公椅",
+    "style": "现代简约",
+    "model_3d": "data/models/sketchfab/de949292056d43629ad11ac1dbd6030d.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "H001",
+    "name": "开放式书架",
+    "category": "书架",
+    "style": "极简",
+    "model_3d": "data/models/sketchfab/224061b9351049fcae31b9c2382621fd.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "H002",
+    "name": "实木书架",
+    "category": "书架",
+    "style": "中式",
+    "model_3d": "data/models/sketchfab/224061b9351049fcae31b9c2382621fd.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  },
+  {
+    "catalog_id": "H003",
+    "name": "铁艺置物架",
+    "category": "书架",
+    "style": "工业风",
+    "model_3d": "data/models/sketchfab/224061b9351049fcae31b9c2382621fd.glb",
+    "model_format": "glb",
+    "model_source": "Sketchfab",
+    "model_license": "CC Attribution"
+  }
+]

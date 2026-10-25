@@ -1,0 +1,288 @@
+[
+  {
+    "id": "polyhaven_Sofa_01",
+    "category": "沙发",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/Sofa_01/Sofa_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/Sofa_01"
+  },
+  {
+    "id": "polyhaven_GothicBed_01",
+    "category": "床",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/GothicBed_01/GothicBed_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/GothicBed_01"
+  },
+  {
+    "id": "polyhaven_ClassicNightstand_01",
+    "category": "床头柜",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/ClassicNightstand_01/ClassicNightstand_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/ClassicNightstand_01"
+  },
+  {
+    "id": "polyhaven_ArmChair_01",
+    "category": "单椅",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/ArmChair_01/ArmChair_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/ArmChair_01"
+  },
+  {
+    "id": "polyhaven_SchoolDesk_01",
+    "category": "书桌",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/SchoolDesk_01/SchoolDesk_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/SchoolDesk_01"
+  },
+  {
+    "id": "polyhaven_GothicCabinet_01",
+    "category": "衣柜",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/GothicCabinet_01/GothicCabinet_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/GothicCabinet_01"
+  },
+  {
+    "id": "polyhaven_Shelf_01",
+    "category": "书架",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/Shelf_01/Shelf_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/Shelf_01"
+  },
+  {
+    "id": "polyhaven_ClassicConsole_01",
+    "category": "餐桌",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/ClassicConsole_01/ClassicConsole_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/ClassicConsole_01"
+  },
+  {
+    "id": "polyhaven_CoffeeTable_01",
+    "category": "茶几",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/CoffeeTable_01/CoffeeTable_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/CoffeeTable_01"
+  },
+  {
+    "id": "polyhaven_Television_01",
+    "category": "电视柜",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/Television_01/Television_01.gltf",
+    "format": "gltf",
+    "source": "Poly Haven",
+    "license": "CC0",
+    "source_url": "https://polyhaven.com/a/Television_01"
+  },
+  {
+    "id": "sketchfab_ff69c42b0ec24dfcb1ff05a4f0d1f3a8",
+    "category": "沙发",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/ff69c42b0ec24dfcb1ff05a4f0d1f3a8.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/ff69c42b0ec24dfcb1ff05a4f0d1f3a8"
+  },
+  {
+    "id": "sketchfab_b8c16d4b69f64335b46379b119b102b4",
+    "category": "床",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/b8c16d4b69f64335b46379b119b102b4.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/b8c16d4b69f64335b46379b119b102b4"
+  },
+  {
+    "id": "sketchfab_093226acaca3434191f00c29e5877a07",
+    "category": "床头柜",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/093226acaca3434191f00c29e5877a07.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/093226acaca3434191f00c29e5877a07"
+  },
+  {
+    "id": "sketchfab_2346030885474d15adcd32923d308fe4",
+    "category": "单椅",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/2346030885474d15adcd32923d308fe4.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/2346030885474d15adcd32923d308fe4"
+  },
+  {
+    "id": "sketchfab_de949292056d43629ad11ac1dbd6030d",
+    "category": "办公椅",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/de949292056d43629ad11ac1dbd6030d.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/de949292056d43629ad11ac1dbd6030d"
+  },
+  {
+    "id": "sketchfab_60d7c68aff3644c7bd2acf6983cb39c4",
+    "category": "书桌",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/60d7c68aff3644c7bd2acf6983cb39c4.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/60d7c68aff3644c7bd2acf6983cb39c4"
+  },
+  {
+    "id": "sketchfab_aff452c30e724283ae2c4f17297e0ef7",
+    "category": "衣柜",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/aff452c30e724283ae2c4f17297e0ef7.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/aff452c30e724283ae2c4f17297e0ef7"
+  },
+  {
+    "id": "sketchfab_224061b9351049fcae31b9c2382621fd",
+    "category": "书架",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/224061b9351049fcae31b9c2382621fd.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/224061b9351049fcae31b9c2382621fd"
+  },
+  {
+    "id": "sketchfab_9135349108174c8285433b3695977158",
+    "category": "餐桌",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/9135349108174c8285433b3695977158.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/9135349108174c8285433b3695977158"
+  },
+  {
+    "id": "sketchfab_2485777061ac484b834c43bbf6794a6b",
+    "category": "餐椅",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/2485777061ac484b834c43bbf6794a6b.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/2485777061ac484b834c43bbf6794a6b"
+  },
+  {
+    "id": "sketchfab_5f1dbecdc7f14ab4886a594a074b3c83",
+    "category": "茶几",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/5f1dbecdc7f14ab4886a594a074b3c83.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/5f1dbecdc7f14ab4886a594a074b3c83"
+  },
+  {
+    "id": "sketchfab_0074168f4dd64836823667ea871d13ba",
+    "category": "电视柜",
+    "style_tags": [
+      "写实",
+      "高模"
+    ],
+    "path": "data/models/sketchfab/0074168f4dd64836823667ea871d13ba.glb",
+    "format": "glb",
+    "source": "Sketchfab",
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/0074168f4dd64836823667ea871d13ba"
+  }
+]

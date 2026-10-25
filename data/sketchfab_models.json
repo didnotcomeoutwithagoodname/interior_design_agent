@@ -1,0 +1,110 @@
+[
+  {
+    "category": "沙发",
+    "uid": "ff69c42b0ec24dfcb1ff05a4f0d1f3a8",
+    "name": "Curved Sofa Set - White",
+    "size_mb": 18.9,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/ff69c42b0ec24dfcb1ff05a4f0d1f3a8",
+    "local_glb": "data/models/sketchfab/ff69c42b0ec24dfcb1ff05a4f0d1f3a8.glb"
+  },
+  {
+    "category": "床",
+    "uid": "b8c16d4b69f64335b46379b119b102b4",
+    "name": "Bed",
+    "size_mb": 16.9,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/b8c16d4b69f64335b46379b119b102b4",
+    "local_glb": "data/models/sketchfab/b8c16d4b69f64335b46379b119b102b4.glb"
+  },
+  {
+    "category": "床头柜",
+    "uid": "093226acaca3434191f00c29e5877a07",
+    "name": "Nightstand Villa Walfahrt Flickr",
+    "size_mb": 17.4,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/093226acaca3434191f00c29e5877a07",
+    "local_glb": "data/models/sketchfab/093226acaca3434191f00c29e5877a07.glb"
+  },
+  {
+    "category": "单椅",
+    "uid": "2346030885474d15adcd32923d308fe4",
+    "name": "Curved Armchair",
+    "size_mb": 17.5,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/2346030885474d15adcd32923d308fe4",
+    "local_glb": "data/models/sketchfab/2346030885474d15adcd32923d308fe4.glb"
+  },
+  {
+    "category": "办公椅",
+    "uid": "de949292056d43629ad11ac1dbd6030d",
+    "name": "Office Chair V2",
+    "size_mb": 19.9,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/de949292056d43629ad11ac1dbd6030d",
+    "local_glb": "data/models/sketchfab/de949292056d43629ad11ac1dbd6030d.glb"
+  },
+  {
+    "category": "书桌",
+    "uid": "60d7c68aff3644c7bd2acf6983cb39c4",
+    "name": "Jane Austen Desk (open view 1), Add 86841",
+    "size_mb": 19.0,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/60d7c68aff3644c7bd2acf6983cb39c4",
+    "local_glb": "data/models/sketchfab/60d7c68aff3644c7bd2acf6983cb39c4.glb"
+  },
+  {
+    "category": "衣柜",
+    "uid": "aff452c30e724283ae2c4f17297e0ef7",
+    "name": "Modern Wooden Wardrobe",
+    "size_mb": 20.3,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/aff452c30e724283ae2c4f17297e0ef7",
+    "local_glb": "data/models/sketchfab/aff452c30e724283ae2c4f17297e0ef7.glb"
+  },
+  {
+    "category": "书架",
+    "uid": "224061b9351049fcae31b9c2382621fd",
+    "name": "Bookcase",
+    "size_mb": 10.9,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/224061b9351049fcae31b9c2382621fd",
+    "local_glb": "data/models/sketchfab/224061b9351049fcae31b9c2382621fd.glb"
+  },
+  {
+    "category": "餐桌",
+    "uid": "9135349108174c8285433b3695977158",
+    "name": "Sleek Modern Dining Table Set",
+    "size_mb": 17.2,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/9135349108174c8285433b3695977158",
+    "local_glb": "data/models/sketchfab/9135349108174c8285433b3695977158.glb"
+  },
+  {
+    "category": "餐椅",
+    "uid": "2485777061ac484b834c43bbf6794a6b",
+    "name": "Modern Fabric Dining Chair",
+    "size_mb": 19.9,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/2485777061ac484b834c43bbf6794a6b",
+    "local_glb": "data/models/sketchfab/2485777061ac484b834c43bbf6794a6b.glb"
+  },
+  {
+    "category": "茶几",
+    "uid": "5f1dbecdc7f14ab4886a594a074b3c83",
+    "name": "Vintage Coffee Table 70s 02 Freebie",
+    "size_mb": 17.7,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/5f1dbecdc7f14ab4886a594a074b3c83",
+    "local_glb": "data/models/sketchfab/5f1dbecdc7f14ab4886a594a074b3c83.glb"
+  },
+  {
+    "category": "电视柜",
+    "uid": "0074168f4dd64836823667ea871d13ba",
+    "name": "Tv Unit",
+    "size_mb": 19.6,
+    "license": "CC Attribution",
+    "source_url": "https://sketchfab.com/3d-models/0074168f4dd64836823667ea871d13ba",
+    "local_glb": "data/models/sketchfab/0074168f4dd64836823667ea871d13ba.glb"
+  }
+]
